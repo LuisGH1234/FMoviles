@@ -1,1 +1,4 @@
 
+indo.plist
+NSAppTransportSecurity as Dictionary 
+  NSAllowsArbitraryLoads as Boolean (YES)
